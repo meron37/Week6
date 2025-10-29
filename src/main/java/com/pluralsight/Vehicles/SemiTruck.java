@@ -7,6 +7,7 @@ public class SemiTruck extends Vehicle{
         return heavyCargo;
     }
 
+
     public void setHeavyCargo(boolean heavyCargo) {
         this.heavyCargo = heavyCargo;
     }

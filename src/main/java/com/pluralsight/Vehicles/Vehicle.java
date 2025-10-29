@@ -7,7 +7,7 @@ public class Vehicle {
     int cargoCapacity;
     int fuelCapacity;
 
-    // Getters and setters
+    // == Getters and setters ==
     public String getColor() {
         return color;
     }

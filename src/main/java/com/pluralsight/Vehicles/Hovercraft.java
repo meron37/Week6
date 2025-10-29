@@ -8,6 +8,7 @@ public class Hovercraft extends Vehicle{
         return travelOnWater;
     }
 
+
     public void setTravelOnWater(boolean travelOnWater) {
         this.travelOnWater = travelOnWater;
     }

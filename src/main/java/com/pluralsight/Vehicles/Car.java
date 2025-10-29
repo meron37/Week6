@@ -4,6 +4,7 @@ public class Car extends Vehicle{
     boolean airConditioning;
     int numberOfDoors;
 
+
     public boolean isAirConditioning() {
         return airConditioning;
     }

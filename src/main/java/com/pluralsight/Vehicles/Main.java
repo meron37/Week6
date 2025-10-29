@@ -11,7 +11,7 @@ public class Main {
         slowRide.setPassenger(1);
         System.out.println("Moped:" + slowRide);
 
-        // Car object
+        // == Car object
         Car sedan = new Car();
         sedan.setColor("Blue");
         sedan.setFuelCapacity(50);
